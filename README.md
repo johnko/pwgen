@@ -1,4 +1,4 @@
 pwgen
 =====
 
-my terrible pwgen, lists a bunch of generated passwords
+my terrible pwgen, generate a list of passwords
